@@ -1,9 +1,11 @@
 <?php
 /*
 Plugin Name: Campos Personalizados de Propiedades para WooCommerce
+Plugin URI:  https://github.com/lujy64/custom-property-fields
 Description: Añade campos personalizados para propiedades en WooCommerce y modifica la visualización del producto.
 Version: 1.0
 Author: Maria Lujan Vaira
+Author URI:  https://marialujanvaira.com.ar/
 Text Domain: custom-property-fields
 */
 
